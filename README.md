@@ -3,7 +3,7 @@
 <img align="center" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
   <a href="https://github.com/SKCREATOR7/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SKCREATOR7 &font=Fira%20SemiBold&center=true&width=480&height=45&color=00FF00&vCenter=true&pause=1000&size=60" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=SKCREATOR7 &font=Fira%20SemiBold&center=true&width=480&height=45&color=00FF00&vCenter=true&pause=1000&size=50" /></a>
 </p>
 
 <p align="center">
