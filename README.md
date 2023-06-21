@@ -1,7 +1,7 @@
 ![logo](https://github.com/skcreator7/skcreator7/blob/main/758X.gif)
 <p align="center">
 
-<img align="center" alt="coding" width="200" src="<div style="padding-top:156.383%;position:relative;"><iframe src="https://gifer.com/embed/758X" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>">
+<img align="center" alt="coding" width="200" src="https://gifer.com/embed/758X.gif">
   
   <a href="https://github.com/SKCREATOR7/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=SKCREATOR7 &font=Fira%20SemiBold&center=true&width=480&height=45&color=00FF00&vCenter=true&pause=1000&size=40" /></a>
