@@ -1,7 +1,8 @@
 
 <p align="center">
 
-<img align="center" alt="coding" width="200" src="https://github.com/skcreator7/skcreator7/assets/118694333/37ac4352-2278-4593-bb6a-ffe7de21ee17.gif">
+<img align="center" alt="coding" width="200" src="![image](https://github.com/skcreator7/skcreator7/assets/118694333/a4ed6117-761d-4c9b-bab7-a441656555bc)
+">
   
   <a href="https://github.com/SKCREATOR7/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=SKCREATOR7 &font=Fira%20SemiBold&center=true&width=480&height=45&color=00FF00&vCenter=true&pause=1000&size=40" /></a>
