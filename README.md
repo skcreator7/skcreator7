@@ -1,4 +1,4 @@
-|[Logo](https://github.com/skcreator7/skcreator7/blob/main/20230621_210140.png)
+![logo](https://github.com/skcreator7/skcreator7/blob/main/20230621_210140.png)
 <p align="center">
   <a href="https://github.com/SKCREATOR7/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=SKCREATOR7 &font=Fira%20SemiBold&center=true&width=480&height=45&color=00FF00&vCenter=true&pause=1000&size=60" /></a>
